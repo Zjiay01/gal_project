@@ -1,0 +1,46 @@
+﻿Ren'Py 8.4.1.25072401 lint report, generated at: Sat Oct 25 14:42:54 2025
+
+game/Sheet3.rpy:1 define store.role1 already defined at game/Sheet2.rpy:1
+
+game/Sheet3.rpy:2 define store.role2 already defined at game/Sheet2.rpy:2
+
+game/Sheet3.rpy:3 define store.role3 already defined at game/Sheet2.rpy:3
+
+game/Sheet3.rpy:4 define store.role4 already defined at game/Sheet2.rpy:4
+
+game/Sheet3.rpy:5 define store.role5 already defined at game/Sheet2.rpy:5
+
+game/Sheet3.rpy:6 define store.narrator_nvl already defined at game/Sheet2.rpy:6
+
+game/Sheet3.rpy:7 define store.narrator_adv already defined at game/Sheet2.rpy:7
+
+game/Sheet3.rpy:8 define config.voice_filename_format already defined at game/Sheet2.rpy:8
+
+game/start.rpy:1 define store.role1 already defined at game/Sheet3.rpy:1
+
+game/start.rpy:2 define store.role2 already defined at game/Sheet3.rpy:2
+
+game/start.rpy:3 define store.role3 already defined at game/Sheet3.rpy:3
+
+game/start.rpy:4 define store.role4 already defined at game/Sheet3.rpy:4
+
+game/start.rpy:5 define store.role5 already defined at game/Sheet3.rpy:5
+
+game/start.rpy:6 define store.narrator_nvl already defined at game/Sheet3.rpy:6
+
+game/start.rpy:7 define store.narrator_adv already defined at game/Sheet3.rpy:7
+
+game/start.rpy:8 define config.voice_filename_format already defined at game/Sheet3.rpy:8
+It is advised to set config.check_conflicting_properties to True.
+
+
+Statistics:
+
+The game contains 58 dialogue blocks, containing 86 words and 3,067
+characters, for an average of 1.5 words and 53 characters per block.
+
+The game contains 1 menus, 0 images, and 23 screens.
+
+
+Lint is not a substitute for thorough testing. Remember to update Ren'Py
+before releasing. New releases fix bugs and improve compatibility.

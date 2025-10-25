@@ -1,0 +1,14 @@
+running ['E:\\gal_script\\renpy-7.3.5-sdk\\lib\\windows-i686\\zsync.exe', '-o', 'E:\\gal_script\\renpy-7.3.5-sdk\\update\\sdk.update.new', '-k', 'E:\\gal_script\\renpy-7.3.5-sdk\\update\\sdk.zsync', '-i', 'E:\\gal_script\\renpy-7.3.5-sdk\\update\\sdk.update', 'http://update.renpy.org/release-8/renpy-8.4.1-sdk.zsync']
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+could not delete file \\?\E:\gal_script\renpy-7.3.5-sdk\launcher\game\fonts\SourceHanSans-Light-Lite.ttfD \\?\E:\gal_script\renpy-7.3.5-sdk\launcher\game\fonts\SourceHanSans-Light-Lite.ttf

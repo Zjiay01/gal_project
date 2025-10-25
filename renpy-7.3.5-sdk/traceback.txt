@@ -1,0 +1,26 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+
+FileNotFoundError: [Errno 2] No such file or directory: 'E:\\gal_script\\renpy-7.3.5-sdk\\update\\deferred.txt'
+
+-- Full Traceback ------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "renpy/bootstrap.py", line 376, in bootstrap
+    renpy.main.main()
+    ~~~~~~~~~~~~~~~^^
+  File "renpy/main.py", line 318, in main
+    renpy.update.deferred.init()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "renpy/update/deferred.py", line 160, in init
+    process_deferred()
+    ~~~~~~~~~~~~~~~~^^
+  File "renpy/update/deferred.py", line 91, in process_deferred
+    with open(DEFERRED_UPDATE_FILE, "r") as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^      
+FileNotFoundError: [Errno 2] No such file or directory: 'E:\\gal_script\\renpy-7.3.5-sdk\\update\\deferred.txt'
+
+Windows-11-10.0.26100-SP0 AMD64
+Ren'Py 8.4.1.25072401
+ 
+Mon Sep 22 20:45:43 2025
